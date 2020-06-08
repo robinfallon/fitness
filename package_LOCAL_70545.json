@@ -1,7 +1,6 @@
 {
   "name": "fitness",
   "version": "1.0.0",
-<<<<<<< HEAD
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,14 +25,4 @@
   },
   "homepage": "https://github.com/robinfallon/fitness#readme",
   "description": ""
-=======
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
->>>>>>> 8c71cf0ecd095ed2135b3d2ccf74a93e33b78ca8
 }
